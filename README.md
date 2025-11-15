@@ -8,7 +8,7 @@
 <h4>🔥 Skills</h4>
 <h4>💻 Programming Languages</h4>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Brayan-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
   <img align="center" alt="Brayan-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
   <img align="center" alt="Brayan-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
