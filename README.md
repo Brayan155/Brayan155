@@ -25,6 +25,8 @@
   <img align="center" alt="Brayan-" height="30" width="40" src=""/>
 </div>
 
+##
+
 <div>
-  <a href="www.linkedin.com/in/brayan-felipe-da-silva-bb5344358" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/brayan-felipe-da-silva-bb5344358" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
 </div>
