@@ -24,3 +24,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Brayan-" height="30" width="40" src=""/>
 </div>
+
+<div>
+  <a href="www.linkedin.com/in/brayan-felipe-da-silva-bb5344358" target="_blank" src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
+</div>
