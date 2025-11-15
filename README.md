@@ -5,8 +5,8 @@
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brayan155&theme=react&layout=compact"/>
 </div>
 
-<h1>🔥 Skills</h1>
-<h1>💻 Programming Languages</h1>
+<h3>🔥 Skills</h3>
+<h3>💻 Programming Languages</h3>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Brayan-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
