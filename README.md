@@ -5,7 +5,6 @@
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brayan155&theme=react&layout=compact"/>
 </div>
 
-<h4>🔥 Skills</h4>
 <h4>💻 Programming Languages</h4>
 
 <div style="display: inline_block">
