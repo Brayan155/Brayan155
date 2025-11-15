@@ -22,7 +22,7 @@
 <h4>🛠️ Tools & Frameworks</h4>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Brayan-" height="30" width="40" src=""/>
+  <!-- <img align="center" alt="Brayan-" height="30" width="40" src=""/> -->
 </div>
 
 ##
